@@ -40,8 +40,8 @@ This project leverages FAISS, sentence embeddings, and a multilingual language m
 ### ✅ Step-by-Step Instructions:
 
 1. **Open the Notebook**  
-   👉 [Click here to open the Colab notebook](https://colab.research.google.com/github/your-username/hebrew-medical-rag/blob/main/hebrew_medical_rag_colab.ipynb)  
-   *(Replace the link with your actual Colab URL.)*
+   👉 [Click here to open the Colab notebook]([https://colab.research.google.com/github/your-username/hebrew-medical-rag/blob/main/hebrew_medical_rag_colab.ipynb](https://colab.research.google.com/drive/1JUSGMXLbGa4JrrBiRBX_m6c49y_JyC-8?usp=sharing))  
+
 
 2. **Switch to GPU Runtime**  
 
