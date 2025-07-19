@@ -40,18 +40,19 @@ This project leverages FAISS, sentence embeddings, and a multilingual language m
 ### ✅ Step-by-Step Instructions:
 
 1. **Open the Notebook**  
-   👉 [Click here to open the Colab notebook]([https://colab.research.google.com/drive/1JUSGMXLbGa4JrrBiRBX_m6c49y_JyC-8?usp=sharing])  
+   👉   [Click here to open the Colab notebook](https://colab.research.google.com/drive/1JUSGMXLbGa4JrrBiRBX_m6c49y_JyC-8?usp=sharing)  
+ 
 
 
-2. **Switch to GPU Runtime**  
+3. **Switch to GPU Runtime**  
 
-3. **Run All Cells**  
+4. **Run All Cells**  
 Click `Runtime > Run all` or execute cells one by one.
 
-4. **Enter Hugging Face Token When Prompted**  
+5. **Enter Hugging Face Token When Prompted**  
 See the instructions below for how to get your token.
 
-5. **Chat With the Bot**  
+6. **Chat With the Bot**  
 A Gradio interface will launch with a public link. You can now ask medical questions in Hebrew.
 
 ---
